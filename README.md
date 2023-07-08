@@ -1,6 +1,7 @@
 # makeTemplate
-Template for creating a Downloader for TeleCero
-Please remove the lines before makeShow and change the following vars.
+Template for creating a Downloader for TeleCero.
+
+Please remove the lines before makeShow and change the following vars:
 * Show
 * Channel
 * Country
