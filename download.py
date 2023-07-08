@@ -9,7 +9,7 @@ def dfile: str, args: str = ""):
         print(e)
 def dyear(year: int, args: str = ""):
   y = str(year)
-  file = f"./links/{year}.txt"
+  file = f"./playlist/{year}.txt"
   dfile(file, args)
 if __name__ == "__main__":
   dyear(2023)
