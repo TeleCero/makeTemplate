@@ -1,2 +1,4 @@
-# makeSalvame
-Salvame (Telecinco ES) Downloader for TeleCero
+# makeTemplate
+Template for creating a Downloader for TeleCero
+# make<TV Show>
+<TV Show> (<Channel> <Country>) Downloader for TeleCero
